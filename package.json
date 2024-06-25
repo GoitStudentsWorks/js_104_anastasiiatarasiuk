@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/TalentStack/",
+    "build": "vite build --base=/js_104_anastasiiatarasiuk/",
     "preview": "vite preview"
   },
   "devDependencies": {
